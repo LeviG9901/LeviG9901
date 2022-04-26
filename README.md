@@ -4,7 +4,7 @@
 - 🏙️ I live in Hungary, Tatabánya.
 - 👨‍🎓 Graduated in february 2022 from Széchenyi István University.
 - 👨‍💻 My major is Computer Science Engineer (BSc).
-- 🕵️ I’m currently looking for (IT Software Developer) jobs in Hungary.
+- 🕵️ I’m currently looking for (IT Software Developer) jobs in Hungary. (remote/hybrid)
 - 💼 Unfortunately, I have no working experience.
 - 📚 Some Programming languages I've came across during my studies:<br />
      | Python | Java | PHP | C++ | Javascript | HTML/CSS | SQL |<br />
