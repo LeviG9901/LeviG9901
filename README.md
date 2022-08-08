@@ -2,10 +2,9 @@
 - 👉 My name is Levente Gvárdián.
 - 🎂 I'm 23 years old.
 - 🏙️ I live in Hungary, Tatabánya.
+- 💼 I am currently working at T-systems Hungary as Data Scientist (AI team)
 - 👨‍🎓 Graduated in february 2022 from Széchenyi István University.
 - 👨‍💻 My major is Computer Science Engineer (BSc).
-- 🕵️ I’m currently looking for (IT Software Developer) jobs in Hungary. (remote/hybrid)
-- 💼 Unfortunately, I have no working experience.
 - 📚 Some Programming languages I've came across during my studies:<br />
      | Python | Java | PHP | C++ | Javascript | HTML/CSS | SQL |<br />
 - 📄 About my thesis: (can be found on github as DrowsinessDetection)<br />
