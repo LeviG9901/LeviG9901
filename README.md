@@ -1,8 +1,8 @@
 - 👋 Hello!
 - 👉 My name is Levente Gvárdián.
-- 🎂 I'm 23 years old.
+- 🎂 I'm 24 years old.
 - 🏙️ I live in Hungary, Tatabánya.
-- 💼 I am currently working at T-systems Hungary as Data Scientist (AI team)
+- 💼 I am currently working at Telekom HU as Data Scientist specialist (AI team)
 - 👨‍🎓 Graduated in february 2022 from Széchenyi István University.
 - 👨‍💻 My major is Computer Science Engineer (BSc).
 - 📚 Some Programming languages I've came across during my studies:<br />
