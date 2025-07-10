@@ -1,59 +1,66 @@
-# 👋 Hello, I'm Levente Gvárdián!
-💼 Data Scientist Specialist at Telekom HU
-____
-🌍 From Tatabánya, Hungary | 🎓 BSc in Computer Science Engineering |  Passionate about AI solutions and machine learning technologies.
-____
-## 💼 Work Experience
-Data Scientist Specialist, Telekom HU
+# 👋 Hello, I'm Levente Gvárdián!  
+💼 Data Scientist Specialist at Telekom HU  
+____  
+🌍 From Tatabánya, Hungary | 🎓 BSc in Computer Science Engineering  
+🔥 Passionate about building Voice AI agents, solving system integration challenges, and developing smart cloud-based AI solutions.  
+____  
 
-August 2022 - Present
+## 💼 Work Experience  
+**Data Scientist Specialist, Telekom HU**  
+**August 2022 - Present**
 
-    🖥️ Primarily working as a Python backend developer
-    🏗️ Built AI solutions on Google Cloud Platform and Azure OpenAI service.
-    🗣️ Integrated STT(SpeechToText) and TTS(TextToSpeech) using Google and Azure technologies.
-    ⚙️ Also had experience with Gitlab Pipelines and SonarQube.
-    
-____
-## 🎓 Education
+- 🖥️ Primarily working as a Python backend developer  
+- 🤖 Focused on Voice AI and Conversational AI agent development  
+- 🧠 Built AI solutions using GPT models and integrated RAG-based pipelines  
+- 🗣️ Integrated STT (Speech-to-Text) and TTS (Text-to-Speech) via Google, Azure, and ElevenLabs  
+- 🤝 Connected multiple systems — solving complex integration challenges between cloud APIs, vector databases, and internal platforms  
+- 🧪 Designed and deployed assistants with Dialogflow CX, Rasa Pro Calm, and Perplexity  
+- ⚙️ Experienced with GitLab Pipelines, SonarQube, and CI/CD automation  
 
-    Bachelor's in Computer Science Engineering
-    Széchenyi István University
-    Graduation: February 2022
-____
-## 🚀 Current Focus
+____  
 
-    Python Backend developer tasks.
-    Using newest GPT models for custom AI solutions.
-    Exploring prompt engineering techniques.
-    Applying cutting-edge cloud-based AI technologies.
-____
+## 🎓 Education  
+
+**Bachelor's in Computer Science Engineering**  
+_Széchenyi István University_  
+🎓 Graduation: February 2022  
+
+____  
+
+## 🚀 Current Focus  
+
+- Developing Python backend services for Voice AI systems  
+- Building and integrating advanced Voice Agents with ElevenLabs, Perplexity, Dialogflow CX, and Rasa Pro Calm  
+- Working with GPT-4o and custom prompt engineering  
+- Connecting APIs, RAG endpoints, and services into seamless, production-grade solutions  
+- Exploring system integration strategies and automation in cloud environments  
+
+____  
+
 ## 🛠️ Skills:
-Programming Languages:
 
-    🐍 Python: Medium-High Proficiency
-    🌐 JavaScript: Low-Medium Proficiency
-    ☕ Java: Low Proficiency
-    🖥️ C++: Low Proficiency
+**Programming Languages:**  
+- 🐍 Python: Medium-High Proficiency  
+- 🌐 JavaScript: Low-Medium Proficiency  
+- ☕ Java: Low Proficiency  
+- 🖥️ C++: Low Proficiency  
 
-AI & Machine Learning:
+**AI & Machine Learning:**  
+- 🤖 Deep Learning, GPT-based Systems  
+- 🧠 Convolutional Neural Networks (CNNs)  
+- 🛠️ Prompt Engineering, RAG Integrations  
+- 🖥️ Daily use of GPT-4o for assistant development  
+- 🌟 Some experience with Gemini  
 
-    🤖 Deep Learning
-    🧠 Convolutional Neural Networks
-    📚 Know about Model Fine-tuning with OpenAI GPT.
-    🖥️ Every day use of GPT-4o
-    🌟 Also some experience with Gemini
+**Cloud & Tools:**  
+- ☁️ Google Cloud Platform  
+- ☁️ Microsoft Azure + Azure OpenAI  
+- 🤖 Dialogflow CX, Rasa Pro Calm, Perplexity AI  
+- 🔊 ElevenLabs for TTS  
+- 🧪 STT/TTS integration with Google, Azure, ElevenLabs  
+- 🔧 GitLab CI/CD, SonarQube  
+- 📝 Jira, YouTrack  
 
-Cloud & Tools:
-
-    ☁️ Google Cloud Platform
-    ☁️ Microsoft Azure
-    🌐 Azure OpenAI Service
-    🤖 DialogflowCX, Nuance Mix
-    🦊 Used Gitlab mainly.
-    📝 Jira, YouTrack
-
-Operating systems:
-
-    🖥️ Mainly using Windows.
-    🐧 Linux Ubuntu knowledge.
-____
+**Operating Systems:**  
+- 🖥️ Primarily using Windows  
+- 🐧 Linux (Ubuntu) for development tasks  
